@@ -23,6 +23,8 @@ saved_models/
 *.keras
 *.pkl
 
+!potato_model.keras
+
 # OS
 .DS_Store
 Thumbs.db
